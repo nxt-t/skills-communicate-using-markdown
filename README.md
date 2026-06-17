@@ -1,4 +1,7 @@
+```mermaid
 flowchart TD
+    A[开始] --> B[结束]
+```flowchart TD
     classDef china fill:#e3f2fd,stroke:#1565c0,stroke-width:2px;
     classDef abroad fill:#fff3e0,stroke:#e65100,stroke-width:2px;
     classDef end fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px;
